@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\stive\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\stive\\.nuget\\packages"
+    ]
+  }
+}
